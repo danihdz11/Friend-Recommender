@@ -16,7 +16,7 @@ Este proyecto implementa un sistema de recomendaciones inspirado en redes social
 
 
 
-## 🔍 Algoritmo de Recomendación
+## Algoritmo de Recomendación
 
 El algoritmo de recomendación funciona de la siguiente manera:
 
